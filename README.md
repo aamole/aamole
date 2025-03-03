@@ -1,4 +1,4 @@
-# Hello Github! 😭
+# Hello Github!
 
 <div>
   <img width="45%" align="left" alt="Profile views" src="https://moe-counter.glitch.me/get/@amole">
@@ -8,8 +8,6 @@
 </div>
 
 ## <3
-## My Info:
-Hey there! I'm Moamel . This is my Github where you'll find all kinds of cool stuff!
 
 ## My Stats 📊
 <picture>
@@ -25,8 +23,8 @@ Hey there! I'm Moamel . This is my Github where you'll find all kinds of cool st
 </picture>
 
 ## 🐄 Tools I Use & Want Use:
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3.8-blue) ![Rust](https://img.shields.io/badge/Rust-1.60-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- **Lib**: ![React](https://img.shields.io/badge/React-16.8-61DAFB)
+- ![Python](https://img.shields.io/badge/Python-3.8-blue) ![Rust](https://img.shields.io/badge/Rust-1.60-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![React](https://img.shields.io/badge/React-16.8-61DAFB)
 
 ## Contact:
 - **Reach me via Telegram : @muuamel**
